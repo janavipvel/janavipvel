@@ -6,7 +6,7 @@
 
 ###  About Me
 
-Hi! I'm Janavi. I'm a pre-final year cse ai ml student, interested in the intersection of technology, design, creativity and human experiences.  
+Hi! I'm Janavi. I'm a pre-final year cse ai ml student, interested in the intersection of technology, design, creativity and product management.  
 I'm currently learning, experimenting and trying to turn ideas into things that work.
 
  &nbsp;Pronouns: **she/her**
