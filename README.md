@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/janavipvel">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=602&text=Janavi%20Paranivel" alt="Janavi Paranivel" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=602&text=Janavi%20Paranivel" alt="Janavi Paranivel" />
   </a>
 </p>
 
@@ -48,12 +48,6 @@ I'm currently learning, experimenting and trying to turn ideas into things that 
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=janavipvel&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-###  Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
----
-<p align="center"><i> From <a href="https://github.com/janavipvel">janavipvel</a></i></p>
 
