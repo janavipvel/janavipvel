@@ -11,7 +11,7 @@ I'm currently learning, experimenting and trying to turn ideas into things that 
 
  &nbsp;Pronouns: **she/her**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,18 +21,10 @@ I'm currently learning, experimenting and trying to turn ideas into things that 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ###  Connect With Me
@@ -46,14 +38,14 @@ I'm currently learning, experimenting and trying to turn ideas into things that 
 ###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=janavipvel&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=janavipvel&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=janavipvel&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=janavipvel&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ###  Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=janavipvel&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=janavipvel&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ###  Dev Quote
@@ -64,3 +56,4 @@ I'm currently learning, experimenting and trying to turn ideas into things that 
 
 ---
 <p align="center"><i> From <a href="https://github.com/janavipvel">janavipvel</a></i></p>
+
